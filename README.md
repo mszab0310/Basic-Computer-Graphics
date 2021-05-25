@@ -1,5 +1,7 @@
 # Basic-Computer-Graphics
 <li>
   Bezier Propeller animation
-  ![Besier Propeller](besierPropeller.png)
+  <img src="besierPropeller.png"
+     alt="Besier Propellerr icon"
+     style="float: left; margin-right: 10px;" />
 <\li>
