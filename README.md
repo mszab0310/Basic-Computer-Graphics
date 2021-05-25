@@ -1,5 +1,5 @@
 # Basic-Computer-Graphics
 <li>
   Bezier Propeller animation
-  ![](besierPropeller.PNG)
+  ![Besier Propeller](besierPropeller.png)
 <\li>
